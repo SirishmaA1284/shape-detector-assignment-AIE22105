@@ -17,7 +17,7 @@ Implemented custom computer vision pipeline (TypeScript) for detecting and class
 
 ###  Performance
 - >90% classification accuracy on provided test images
-- Processing time: <2 ms per image (average)
+- Processing time: <50 ms per image (average)
 - No false positives on non-geometric text
 
 ###  Detected Shapes
@@ -32,3 +32,8 @@ Implemented custom computer vision pipeline (TypeScript) for detecting and class
 ```bash
 npm install
 npm run dev
+
+
+<img width="1003" height="575" alt="image" src="https://github.com/user-attachments/assets/12f3f72c-b3ae-4b51-ba89-83bd79182b40" />
+<img width="880" height="441" alt="image" src="https://github.com/user-attachments/assets/9eba4252-66c5-4026-bf9e-1d4e4dcc223e" />
+
