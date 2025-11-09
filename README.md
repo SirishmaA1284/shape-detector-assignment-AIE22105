@@ -28,12 +28,13 @@ Implemented custom computer vision pipeline (TypeScript) for detecting and class
 - No external computer vision libraries
 - Browser-native pixel analysis
 
+<img width="1003" height="575" alt="image" src="https://github.com/user-attachments/assets/dfc84d45-bc70-4db9-8002-34e32e029f53" />
+<img width="880" height="441" alt="image" src="https://github.com/user-attachments/assets/fa52c52d-c69d-4b1d-8ca8-46d52d8fd897" />
+
+
 ###  Run Locally
 ```bash
 npm install
 npm run dev
 
-
-<img width="1003" height="575" alt="image" src="https://github.com/user-attachments/assets/12f3f72c-b3ae-4b51-ba89-83bd79182b40" />
-<img width="880" height="441" alt="image" src="https://github.com/user-attachments/assets/9eba4252-66c5-4026-bf9e-1d4e4dcc223e" />
 
